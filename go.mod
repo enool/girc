@@ -1,3 +1,3 @@
-module github.com/lrstanley/girc
+module github.com/enool/girc
 
 go 1.18
